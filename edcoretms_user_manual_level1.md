@@ -744,6 +744,7 @@ Always:
 ## 17. Support
 
 For assistance, contact your manager or system administrator.
+Technical support is available via the Support - Open Ticket function
 
 ---
 
