@@ -1,5 +1,33 @@
-# EdcoreTMS User Manual  
-## Level 1 Introduction for Administrators and Teachers
+# EdcoreTMS User Manual
+### Level 1 – Administrator & Teacher Introduction
+
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![System](https://img.shields.io/badge/system-EdcoreTMS-green)
+![Audience](https://img.shields.io/badge/audience-Admin%20%7C%20Teacher-orange)
+
+---
+
+**Document Owner:** Training Management  
+**Last Updated:** 2026-02-19  
+**Applies To:** EdcoreTMS Production System  
+
+---
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Logging In](#logging-in)
+3. [System Interface](#system-interface)
+4. [Creating Course Run](#creating-course-run)
+5. [Funded Courses Requirements](#funded-courses-requirements)
+6. [Adding Students](#adding-students)
+7. [TPG Enrollment](#tpg-enrollment)
+8. [Student Management](#student-management)
+9. [Invoices and Confirmation](#invoices-and-confirmation)
+10. [Payment Recording](#payment-recording)
+11. [Attendance](#attendance)
+12. [Certification](#certification)
+13. [Administrator Responsibilities](#administrator-responsibilities)
+
 
 ---
 
