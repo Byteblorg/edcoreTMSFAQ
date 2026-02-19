@@ -1,5 +1,19 @@
-# EdcoreTMS User Manual
-### Level 1 – Administrator & Teacher Introduction
+# EdcoreTMS Documentation
+
+Welcome to the official EdcoreTMS user documentation.
+
+This portal provides guidance for administrators, trainers, and finance staff.
+
+---
+
+## User Manuals
+
+- [Administrator & Teacher Manual](#table-of-contents)
+
+---
+
+For support, contact your system administrator.
+
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![System](https://img.shields.io/badge/system-EdcoreTMS-green)
