@@ -214,7 +214,11 @@ After enrollment submission, TPG returns:
 
 > ⚠️ Without Enrollment ID, funding values are estimates only.
 
-> ✅ Best practice: Submit TPG enrollment as early as possible.
+> ✅ Best practice: Submit TPG enrollment as early as possible, before sending the invoice to a funded student.
+1.Register student
+2.Upload the enrolment to TPG
+3.Retrieve the GRN number and funding amount
+4.Invoice the customer
 
 ---
 
