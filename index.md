@@ -112,6 +112,9 @@ The course run is now published to the enrollment portal.
 
 Students may enroll immediately.
 
+Where to download the list of course runs for a particular course?
+Go to Master Data>Course List>Find the course>More>Export Course Runs
+
 ---
 
 ## Funded courses requirements
