@@ -770,6 +770,9 @@ Always:
 For assistance, contact your manager or system administrator.
 Technical support is available via the Support - Open Ticket function
 
+For EULA: Visit https://github.com/Byteblorg/edcoreTMSFAQ/blob/62a4165091dece46cde1b69669ed4caaf8f17848/EULA.md
+
+
 ---
 
 End of Level 1 User Manual
